@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </h1>
 
-<h1 align="center" style="color:#00ff00;">Hi, I'm [YOUR NAME] 👨‍💻</h1>
+<h1 align="center" style="color:#00ff00;">Hi, I'm [Karl Francis Cuyugan] 👨‍💻</h1>
 <h3 align="center" style="color:#00ff00;">Welcome to my Matrix-themed GitHub Portfolio</h3>
 
 ---
