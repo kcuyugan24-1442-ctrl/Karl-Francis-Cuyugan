@@ -3,8 +3,8 @@
 <h1 align="center">
 </h1>
 
-<h1 align="center" style="color:#00ff00;">Hi, I'm Karl Francis Cuyugan 👨‍💻</h1>
-<h3 align="center" style="color:#00ff00;">Welcome to my GitHub Portfolio</h3>
+<h1 align="center">Hi, I'm Karl Francis Cuyugan 👨‍💻</h1>
+<h3 align="center">Welcome to my GitHub Portfolio</h3>
 
 ---
 
@@ -39,14 +39,11 @@
 ---
 
 ## 🚀 PROJECT LINKS
-
 <h1 align="center">| Project | Description | Link |</h1>
 
 ---
 
 ## 🎉 FUN FACTS ABOUT ME
-
-- 🕶 I love the **Matrix trilogy**.
 - 🌌 I can code in complete silence… or with synthwave blasting.
 - 🧩 I solve puzzles for fun (especially Rubik's cubes).
 - 🧠 I'm on a mission to contribute to meaningful open source projects.
@@ -63,9 +60,5 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="50%">
-</p>
-
-<p align="center" style="color:#00ff00;">
-  <i>"There is no spoon."</i>
 </p>
 
