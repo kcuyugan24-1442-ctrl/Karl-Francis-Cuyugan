@@ -1,5 +1,3 @@
-<!-- MATRIX THEME GITHUB PORTFOLIO README -->
-
 <h1 align="center">
 </h1>
 
